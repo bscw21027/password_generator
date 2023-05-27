@@ -14,7 +14,7 @@ Customizable Length: You can specify the desired length of the password to meet 
 - Open a terminal or command prompt and navigate to the project directory.
 
 - Run the script using Python:
-```python
+  ```python
   python password_generator.py
   ```
 - Follow the on-screen instructions to customize your password generation settings.

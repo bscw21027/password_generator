@@ -2,7 +2,6 @@
 The Password Generator is a Python script designed to create strong and secure passwords with ease. This tool allows you to generate random passwords with customizable length and complexity, ensuring that your online accounts and sensitive information remain protected.
 
 # Features
-Customizable Length: You can specify the desired length of the password to meet the requirements of various platforms or security policies.
 
 - **Customizable Length:** You can specify the desired length of the password to meet the requirements of various platforms or security policies.
 

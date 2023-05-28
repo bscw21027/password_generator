@@ -35,4 +35,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - The project structure and code organization are inspired by best practices for Python projects.
 
 # Contact
-If you have any questions, suggestions, or issues, please feel free to contact the project maintainer at bscw@itu.edu.pk
+If you have any questions, suggestions, or issues, please feel free to contact the project maintainer at bsce21027@itu.edu.pk

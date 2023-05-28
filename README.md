@@ -31,7 +31,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Acknowledgments
-- The calculator app is built using the Python programming language.
+- The Password Generator app is built using the Python programming language.
 - The project structure and code organization are inspired by best practices for Python projects.
 
 # Contact
